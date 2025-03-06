@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: ApiSofi, Tenant: UNIVERSIDAD TECNOLOGICA DE CANCUN (utcancun.edu.mx - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
